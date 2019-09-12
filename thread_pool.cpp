@@ -207,7 +207,7 @@ namespace CTP
 							}
 							job = std::move(jobs.front()); // once we know the current queue has a job we move it
 							jobs.pop();						// and we pop one element from this Queue
-							break;		// THIS IS MY ADDITION - Check this !!!
+							break;		
 						}
 					}
 
