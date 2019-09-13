@@ -46,6 +46,9 @@ Further simply call the Thread Pool thread_pool.Schedule(xxx) function with a la
 The main.cpp in the project illustrates how it was tested and how it works.
 
 # More Information: 
+About a thread pool you can check this short article I wrote: 
+http://atanasrusev.com/2019/09/13/thread-pool-design-pattern/
+
 Following is a list of most of the important C++ elements and concepts we used in our code that can help you understand it fully:
 
 https://en.cppreference.com/w/cpp/thread/thread/hardware_concurrency
