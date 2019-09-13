@@ -45,4 +45,23 @@ Further simply call the Thread Pool thread_pool.Schedule(xxx) function with a la
 
 The main.cpp in the project illustrates how it was tested and how it works.
 
-# More Information: To Be Added soon
+# More Information: 
+Following is a list of most of the important C++ elements and concepts we used in our code that can help you understand it fully:
+
+https://en.cppreference.com/w/cpp/thread/thread/hardware_concurrency
+https://en.cppreference.com/w/cpp/thread/unique_lock
+https://en.cppreference.com/w/cpp/thread/sleep_for
+https://en.cppreference.com/w/cpp/thread/future
+https://en.cppreference.com/w/cpp/utility/move
+https://en.cppreference.com/w/cpp/container/map/emplace
+https://en.cppreference.com/w/cpp/container/map
+https://www.geeksforgeeks.org/descending-order-map-multimap-c-stl/
+https://en.cppreference.com/w/cpp/memory/unique_ptr
+https://en.cppreference.com/w/cpp/utility/functional/function
+https://en.cppreference.com/w/cpp/language/default_constructor
+https://en.cppreference.com/w/cpp/utility/functional/bind
+https://en.cppreference.com/w/cpp/thread/condition_variable/wait
+https://en.cppreference.com/w/cpp/language/pimpl
+https://en.cppreference.com/w/cpp/memory/shared_ptr
+https://en.cppreference.com/w/cpp/memory/shared_ptr/make_shared
+https://en.cppreference.com/w/cpp/thread/packaged_task
